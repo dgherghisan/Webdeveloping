@@ -1,0 +1,2 @@
+git fetch origin // First fetch all changes from origin (which we defined previously)
+git reset --hard origin/master
